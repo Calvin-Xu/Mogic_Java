@@ -47,7 +47,7 @@ This is a simple project maintained by a 蛤丝.
 * Ver.7.1.0
 模糊搜索全面改版，更加精确
 * Ver.8.00
-模糊搜索全面改版，更加精确
+Java 移植版本
 
 
 ## Info
